@@ -253,13 +253,14 @@ div{
     height: 100px;
     background-color: #ebc566;
     color: white;
-    justify-content: space-between;
-    align-items: center;
     width: 100%;
     z-index: 1;
-    padding: 14px 30px;
     padding-left: 100px;
     padding-right: 100px;
+}
+.mid_footer .container{
+    text-align: center;
+    justify-content: space-between;
     display: flex;
 }
 
